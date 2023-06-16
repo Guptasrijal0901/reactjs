@@ -1,0 +1,12 @@
+<!-- node --version (for version)
+npm --version
+npx -v
+npx create-react-app app-name or npm install create-react-app
+ls (sare folder ko list kar k de dega )
+cd namaste-world (eske andar jane k liye )
+npm start (app ko start karne k liye )
+jsx(JavaScript syntax extension we can write javascrit and html together)
+hot reloading mtlb turant reload hota hai
+terminal pe jo network link hai vo agar same network se connected hai toh hm usse dusre device pe bhi dekh sakte hai
+cd ../ terminal se bhaar aane k liye
+<></> se error sara remove ho jata hai -->
